@@ -1,0 +1,326 @@
+body {
+	margin:0;
+	padding: 0;
+	background-color:#f4f4f4;
+	font: 16px/1.5 Arial, Helvetica, sans-serif ;
+	box-sizing: border-box;
+	font-family: 'Ubuntu', sans-serif;
+}
+.container{
+	overflow: hidden;
+	width: 80%;
+	margin: auto;
+	min-height: ; 
+
+}
+ header{
+	background: #35424a;
+	color: #ffffff;
+	padding-top: 35px;
+	min-height: 67px;
+	border-bottom: #029c03 4px solid;
+
+}
+header a{
+	color: #ffffff;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 16px; 
+}
+
+header ul{
+	padding:0;
+	margin: 0; 
+}
+header li{
+	float: left;
+	display: inline;
+	padding: 0 20px 0 20px;
+
+}
+header #branding{
+	float: left;
+
+}
+header #branding h1{
+	margin: 0;
+}
+
+header nav{
+	float: right;
+	padding-top: 10px;
+}
+
+header a:hover{
+	color: #cccccc;
+	font-weight: bold;
+}
+
+/* SHOWCASE */
+
+#showcase{
+	min-height: 300px;
+	background-image:url(./img/blue2.jpeg); no-repeat;
+	width:100% ;
+	height: 100%;
+	border-bottom:  #029c03 4px solid;
+}
+
+footer{
+	background: #303036;
+	color:#d3d3d3;
+	height: 400px;
+	position: relative;
+	margin-top: auto;
+width: 100%;
+
+}
+footer .footer-content{
+	border:1px solid gray;
+	height:350px;
+	display:flex;
+
+}
+footer .footer-bottom{
+	background-color:#343a40;
+	color: #686868 ;
+	height: 24px;
+	bottom:0px;
+	left:0px;
+	text-align: center;
+	position: absolute;
+	padding-bottom: 10px; 
+	padding-top: 10px;
+	width: 100%;
+}
+footer .footer-content .footer-section{
+	flex: 1;
+	border: 1px solid gray;
+	padding:25px;
+}
+ .column {
+ 	
+ 	float: left;
+ 	padding: 5px;
+ }
+ #newsletter::after{
+    content: "";
+    display: table;
+    clear: both;
+
+}        
+.div-novi{
+	 display: flex;
+	border:20px;
+	border-color: black;
+	padding-left: 50px;
+	border-color: black;
+	border:2px;
+	align-items: center;
+	
+}
+#showcase{
+	min-height: 547px;
+	background-image: url(./img/green5.jpeg );background-size: 100% 100%;
+	background-color: #303036;
+	width:100% ;
+	height: 100%;
+	border-bottom:  #029c03 4px solid;
+
+}
+
+
+}
+
+}
+img {
+	height: 200px;
+	width:240px;
+	
+	
+}
+
+#showcase p{
+	text-align: center;
+	font-size: 25px;
+}
+@media(max-width: 768px;){
+	header #branding,
+	header nav,
+	header nav li{
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+}
+.cvijece{
+	border:20px;
+	border-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
